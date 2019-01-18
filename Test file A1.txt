@@ -4,3 +4,5 @@ This commit is for Feature A story card TES-5.
 This is to test the transition of the TES-5.
 This is to test the transition of the TES-5. (IN-PROGRESS)
 Try adding just only story id to the comment section.
+
+This commit is made from local GitHub. This is to test if the system works or not. 
