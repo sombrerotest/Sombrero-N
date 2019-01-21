@@ -7,3 +7,4 @@ Try adding just only story id to the comment section.
 
 This commit is made from local GitHub. This is to test if the system works or not. 
 Test creating new branch of TES_7 from Develop branch.
+Test a little adjustment to see if it will update the branch details and commit or not. (Last commit hash number in short is 	d0b180)
