@@ -7,3 +7,9 @@ Try adding just only story id to the comment section.
 
 This commit is made from local GitHub. This is to test if the system works or not. 
 Test commit Test file A1 with git commit on console.
+
+Is this the Tes-8 git file?
+I'm testing commit now.
+
+I try making changes
+This is to perform code updting on TES-10.
