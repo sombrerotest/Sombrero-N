@@ -12,3 +12,5 @@ Is this the Tes-8 git file?
 I'm testing commit now.
 
 I try making changes
+
+This is a very small change that might happen during the release branch creation.
