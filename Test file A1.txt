@@ -10,3 +10,5 @@ Test commit Test file A1 with git commit on console.
 
 Is this the Tes-8 git file?
 I'm testing commit now.
+
+I try making changes
